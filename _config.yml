@@ -8,6 +8,7 @@ markdown: kramdown
 disqus: 
 google_analytics: 
 title: morgon's blog
+timezone: Europe/Berlin
 
 defaults:
   -
