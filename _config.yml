@@ -9,6 +9,7 @@ disqus:
 google_analytics: 
 title: morgon's blog
 timezone: Europe/Berlin
+excerpt_separator: "<!--excerpt-->"
 
 defaults:
   -
