@@ -10,6 +10,7 @@ google_analytics:
 title: morgon's blog
 timezone: Europe/Berlin
 excerpt_separator: "<!--excerpt-->"
+google_analytics: UA-76518028-1
 
 defaults:
   -
