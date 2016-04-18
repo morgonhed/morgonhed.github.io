@@ -10,7 +10,7 @@ When editing a file as root one uses usually sudo, but doing it like this:
 sudo vi some_file
 ```
 
-has a problem: When run as root, vi (or rather vim on linux) will not use the 
+has a problem: When run as root, vi (or rather vim on linux) will use the 
 configuration for the root-account and that means you may lack syntax-highlighting
 or your favourite plugin.
 
