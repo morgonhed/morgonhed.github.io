@@ -20,7 +20,6 @@ the setting for "first_weekday" and change it to this:
 
 ```Shell
 first_weekday 2
-
 ```
 
 Now regenerate your locale-files with
